@@ -3,6 +3,7 @@
 
 
 Company Overview
+
 Ibexend is a dynamic and forward-thinking software company dedicated to delivering innovative technological solutions that empower businesses across the globe. With a team of expert developers, designers, and strategists, we specialize in creating custom software that is tailored to meet the unique needs of each client. Whether it's building cutting-edge applications, optimizing digital platforms, or streamlining business operations through automation, Ibexend is committed to helping organizations scale and succeed in the digital landscape.
 
 Founded on the principles of agility, innovation, and integrity, we pride ourselves on being a trusted partner for businesses seeking to harness the power of technology. Our mission is to transform ideas into reality by leveraging the latest in software development, design, and data-driven insights to drive impact.
