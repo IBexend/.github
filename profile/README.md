@@ -9,6 +9,14 @@ Ibexend is a dynamic and forward-thinking software company dedicated to deliveri
 Founded on the principles of agility, innovation, and integrity, we pride ourselves on being a trusted partner for businesses seeking to harness the power of technology. Our mission is to transform ideas into reality by leveraging the latest in software development, design, and data-driven insights to drive impact.
 
 
+<div id="badges">
+  <a href="https://www.linkedin.com/company/ibexend/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+</div>
+
+
 **What We Do**  
 
 At Ibexend, we provide a full spectrum of software development services, including:
